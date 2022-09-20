@@ -43,6 +43,6 @@ Creates a pip installable zip file and wheel file using poetry.
 
 - As this is a simple script to be ran using the CLI, I used Python with Poetry to easily use, install, this example using CLI
 
-## Why Did I include Poetry?
+## Why Did I include Poetry?
 
 - Poetry is a python packaging and dependency manager to install the dependencies, run tests and also to package the app as if it's an SDK or library.
